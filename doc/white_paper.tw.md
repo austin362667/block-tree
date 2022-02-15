@@ -10,7 +10,7 @@
     * 礦工:礦工只要選擇一個 leaf node 去挖礦，挖到就可以得到些許獎勵
     * 帳戶擁有者:只要負責轉帳與收帳
 
-![圖一：區塊樹是 complete tree，分裂時由編號小的優先開始分裂](https://zh.wikipedia.org/wiki/File:FullBT_CompleteBT.jpg)
+![圖一：區塊樹是 complete tree，分裂時由編號小的優先開始分裂](https://upload.wikimedia.org/wikipedia/commons/7/7d/FullBT_CompleteBT.jpg)
 
 如圖，其實只有一棵樹，分裂的規則是按順序決定的，例如： 4 沒分裂前， 5 是不可以分裂的。
 
